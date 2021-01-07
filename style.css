@@ -1,0 +1,54 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.movie_head {
+    font-size: 21px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
+
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: lightblue;
+}
+
+.environment_li {
+    margin-top: 10px;
+
+}
+
+.environment_li h4 {
+    border-bottom: 2px solid green;
+    padding: 10px;
+
+}
+
+.environment_li p {
+    margin-top: 10px;
+
+}
+
+.environment_li img {
+    border-radius: 20px;
+
+}
